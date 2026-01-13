@@ -1,0 +1,19 @@
+body{
+    overflow: hidden;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+table,tr,td,th{
+        padding: 1px; 
+        border: 1px solid red;
+        align-content: center;
+        position: relative;
+        left: 0px;
+        border-color:red;
+        
+        
+    }
+    .table1{
+        position: relative;
+        left: 395px;
+    }
